@@ -2,8 +2,8 @@ node_modules
 npm-debug.log
 0.*
 1.*
-lib
 fonts/
+.idea/
 dist
 typings/
 tsconfig.json
